@@ -1,0 +1,6 @@
+Get Download For Link
+
+
+> [!IMPORTANT]
+> Requires VEGAS Pro Or higher
+<a href="https://github.com/diddyfiles/Newer-Team-For-VEGAS-Pro/raw/refs/heads/main/newerteam.cs">GET FOR THE DOWNLOAD LINK</a>
